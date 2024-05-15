@@ -43,3 +43,17 @@ let courses = [
     console.log(PROG200CourseStart);
  }
  display();
+
+
+ /////
+ {
+    Course: "IAWS",
+    CourseCode: "AI-101",
+    CourseDescription: "Amazon Web Services ",
+    Product: "amazin",
+    Role: "cloud",
+    Level: "Beginner",
+    Duration: "3 months",
+    Price: "49.99",
+    CourseURL: "https://aws.amazon.com/free/",
+    CourseImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvOCHeqNEMvlfFJGfKoCQvZlwwgFDEo1D43M_yqLGrw&s";}
